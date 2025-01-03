@@ -82,6 +82,8 @@
 具體來講，基於「精準扶貧資訊化平台」主要包括全省四級一體的數據平台、基於互聯網的外網網站
 、各級人員使用的手機APP客戶端、扶貧事權管理系統和扶貧大數據分析系統 等主要內容，並建立對應的資訊化支撐體系。
 ```
+![image](https://github.com/WaspStringboy/---4-1-/blob/main/aHR0cDovL2ltZy5ibG9nLmNzZG4ubmV0LzIwMTcwNTA3MTcyNDMyMTE3.png)
+
 # 2-2需求分析
 # 2-2-1角色分類
 ```
