@@ -390,7 +390,7 @@
 ```
 ![image](https://github.com/WaspStringboy/---4-1-/blob/main/aHR0cDovL2ltZy5ibG9nLmNzZG4ubmV0LzIwMTcwNTA3MTgyMzExMzY2.png)
 # 2-4-2精準扶貧管理系統邏輯視圖-類別圖
-![image](https://github.com/WaspStringboy/---4-1-/blob/main/aHR0cDovL2ltZy5ibG9nLmNzZG4ubmV0LzIwMTcwNTA3MTgyMzU0MjQx.png)
+![image](https://github.com/WaspStringboy/---4-1-/blob/main/Screenshot_20250103-220405.png)
 # 2-4-3精準扶貧管理系統關鍵類別圖說明
 
 # *訊息資料庫類
