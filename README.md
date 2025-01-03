@@ -437,16 +437,17 @@
 針對精準扶貧管理系統的部分關鍵用例作如下順序圖建模。
 ```
 # 2-6-1註冊用戶順序圖
-
+![image](https://github.com/WaspStringboy/---4-1-/blob/main/2-6-1.png)
 # 2-6-2提交申請順序圖
-
+![image](https://github.com/WaspStringboy/---4-1-/blob/main/2-6-2.png)
 # 2-6-3查看貧困戶檔案順序圖
-
+![image](https://github.com/WaspStringboy/---4-1-/blob/main/2-6-3.png)
 # 2-6-4查詢公告順序圖
-
+![image](https://github.com/WaspStringboy/---4-1-/blob/main/2-6-4.png)
 # 2-6-5查詢系統資料資訊順序圖
-
+![image](https://github.com/WaspStringboy/---4-1-/blob/main/2-6-5.png)
 # 2-7物理視圖之部署圖建模
+![image](https://github.com/WaspStringboy/---4-1-/blob/main/2-7.png)
 ```
 【說明】
 
@@ -457,7 +458,7 @@
 ```
 # 3利用設計模式改進
 # 3-1訊息通知模組管理模組的原設計方案類別圖
-
+![image](https://github.com/WaspStringboy/---4-1-/blob/main/3-1.png)
 ```
 【說明】
 
@@ -466,7 +467,7 @@
  3.訊息公告剛才類負責申請單、評論、留言以及公告通知的對象建立。
 ```
 # 3-2訊息通知模組管理模組採用工廠方法模型設計方案類別圖
-
+![image](https://github.com/WaspStringboy/---4-1-/blob/main/3-2.png)
 ```
 【說明】
 
