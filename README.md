@@ -268,6 +268,10 @@
 ```
 群眾用例圖、基層工作人員用例圖、系統管理員用例圖、主管領導用例圖分別如圖所示。
 ```
+![image](https://github.com/WaspStringboy/---4-1-/blob/main/2-3.png)
+![image](https://github.com/WaspStringboy/---4-1-/blob/main/2-3-2.png)
+![image](https://github.com/WaspStringboy/---4-1-/blob/main/2-3-3.png)
+![image](https://github.com/WaspStringboy/---4-1-/blob/main/2-3-4.png)
 # 2-3-2精準扶貧管理系統關鍵用例描述
 ```
 用例編號  23201
