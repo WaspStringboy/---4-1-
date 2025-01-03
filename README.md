@@ -423,7 +423,7 @@
 
 ```
 # 2-5-2組件圖設計建模
-
+![image](https://github.com/WaspStringboy/---4-1-/blob/main/2-5-2.png)
 ```
 【說明】
 
