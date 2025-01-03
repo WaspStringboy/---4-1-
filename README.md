@@ -388,8 +388,9 @@
 ```
 根據前面的系統用例分析，我們抽象化系統實體，並對實體進行了輸入性分析，實體及其屬性分析圖如圖2.4.1-1所示。
 ```
+![image](https://github.com/WaspStringboy/---4-1-/blob/main/aHR0cDovL2ltZy5ibG9nLmNzZG4ubmV0LzIwMTcwNTA3MTgyMzExMzY2.png)
 # 2-4-2精準扶貧管理系統邏輯視圖-類別圖
-
+![image](https://github.com/WaspStringboy/---4-1-/blob/main/aHR0cDovL2ltZy5ibG9nLmNzZG4ubmV0LzIwMTcwNTA3MTgyMzU0MjQx.png)
 # 2-4-3精準扶貧管理系統關鍵類別圖說明
 
 # *訊息資料庫類
